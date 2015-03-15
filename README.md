@@ -6,5 +6,8 @@ Code Path Pre-work
 Created Settings display and tweaked UI 
 
 
+<img src='https://github.com/annayelizarova/Tips/blob/master/walkthrough_tip_anna.gif'>
+
+
 
 
